@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mengfw.github.io/home/static/css/main.778eeed7.css",
+    "main.js": "/mengfw.github.io/home/static/js/main.ffd9fca2.js",
+    "static/js/787.4b24f717.chunk.js": "/mengfw.github.io/home/static/js/787.4b24f717.chunk.js",
+    "static/media/photo1.JPG": "/mengfw.github.io/home/static/media/photo1.7f81ff01a2bf914a3300.JPG",
+    "static/media/Hack_Davidson_team.jpeg": "/mengfw.github.io/home/static/media/Hack_Davidson_team.3ddb3346554a97417e5e.jpeg",
+    "static/media/mengfw6.png": "/mengfw.github.io/home/static/media/mengfw6.a8d246b565b484128036.png",
+    "static/media/opening_ceremony.jpeg": "/mengfw.github.io/home/static/media/opening_ceremony.605138cb31967ddc27ec.jpeg",
+    "static/media/pokemon.jpeg": "/mengfw.github.io/home/static/media/pokemon.54344da8644d30f44039.jpeg",
+    "static/media/rest.png": "/mengfw.github.io/home/static/media/rest.b4ea3196b820980634ac.png",
+    "index.html": "/mengfw.github.io/home/index.html",
+    "main.778eeed7.css.map": "/mengfw.github.io/home/static/css/main.778eeed7.css.map",
+    "main.ffd9fca2.js.map": "/mengfw.github.io/home/static/js/main.ffd9fca2.js.map",
+    "787.4b24f717.chunk.js.map": "/mengfw.github.io/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.ffd9fca2.js"
+  ]
+}
